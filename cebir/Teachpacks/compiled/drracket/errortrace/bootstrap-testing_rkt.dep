@@ -1,0 +1,1 @@
+("8.2" ta6osx ("df7422f4fff401a2ede3a28be5a3c0739f0b124e" . "353f4f203799088dd6ef4d25b6ffd0cf0b524e32") (collects #"errortrace" #"errortrace-key.rkt") (collects #"htdp" #"testing.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"stx.rkt") (collects #"syntax" #"to-string.rkt"))

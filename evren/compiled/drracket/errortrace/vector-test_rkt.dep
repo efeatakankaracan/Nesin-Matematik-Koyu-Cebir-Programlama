@@ -1,0 +1,1 @@
+("7.3" racket ("2839583bbc4de9fdedcd1420abab06a34336eb8b" . "b02564a2e078b0cd59e9a1d7ec734adc4268bd01") #"/home/chris/personal/work/mathvillage/2019/repo/bootstrapworld-NMK-2019/evren/teachpacks/evren-teachpack.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
